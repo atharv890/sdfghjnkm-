@@ -1,0 +1,13 @@
+.heading{
+    background-color:coral;
+    width:100%;
+    font-size: 15px;
+    box-shadow:5px 5px 5px grey;
+}
+body{
+background-size: cover;
+font-family: 'Roboto Condensed', sans-serif;
+}
+canvas{
+border:5px dotted blue;
+}
